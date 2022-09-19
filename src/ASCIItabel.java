@@ -28,6 +28,8 @@ public class ASCIItabel { public static void main(String[]args){
                  System.out.println("opagve");
 
                  System.out.println("Hej");
+                 System.out.println("Opgave");
+
     }
 }
 }
