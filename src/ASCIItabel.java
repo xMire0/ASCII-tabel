@@ -20,7 +20,7 @@ public class ASCIItabel { public static void main(String[]args){
                  else if(c == 33 || c ==35 || c == 43 || c == 47){
                      System.out.println("Tegnet af et af de 4 specialtegn");  }
                  else {
-                     System.out.println("Tegnet er ikke kendt af dette programet");
+                     System.out.println("Tegnet er ikke kendt af dette programet jeg ændrer her");
             }
                  System.out.println("Emir er sindsyg til det der git");
                  System.out.println("Ahmad er næsten ligeså god som Emir");
