@@ -18,7 +18,7 @@ public class ASCIItabel { public static void main(String[]args){
                  else if(c >= 48 && c <= 57){
             System.out.println("Tegnet er et tal / for 0-9"); }
                  else if(c == 33 || c ==35 || c == 43 || c == 47){
-            System.out.println("tegnet af et af de 4 specialtegn");  }
+            System.out.println("Tegnet af et af de 4 specialtegn");  }
                     else {
                 System.out.println("Tegnet er ikke kendt af dette program");
             }
