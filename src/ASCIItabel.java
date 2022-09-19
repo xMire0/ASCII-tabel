@@ -23,6 +23,7 @@ public class ASCIItabel { public static void main(String[]args){
                      System.out.println("Tegnet er ikke kendt af dette programet");
             }
                  System.out.println("Emir er sindsyg til det der git");
+                 System.out.println("Ahmad er næsten ligeså god som Emir");
     }
 }
 }
