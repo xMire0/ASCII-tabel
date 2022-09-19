@@ -25,7 +25,9 @@ public class ASCIItabel { public static void main(String[]args){
                  System.out.println("Emir er sindsyg til det der git");
                  System.out.println("Ahmad er næsten ligeså god som Emir");
                  System.out.println("Hossain er næsten lige så god som ahmad");
-        System.out.println("Opgave");
+                 System.out.println("opagve");
+                 System.out.println("Hej");
+                 System.out.println("Opgavesss");
 
     }
 }
