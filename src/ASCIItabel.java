@@ -32,8 +32,10 @@ public class ASCIItabel { public static void main(String[]args){
                  System.out.println("Hej");
                  System.out.println("Opqewqewqegavesss");
                  System.out.println("Hejsssss");
+                 System.out.println("Helooo");
                  System.out.println("Heysa");
                  System.out.println("ysadajsh");
+                 System.out.println("sadasd");
 
     }
 }
